@@ -1,5 +1,11 @@
 # Sinderella
 
+[![Build Status](https://travis-ci.org/Zhomart/sinderella.png?branch=master)](https://travis-ci.org/Zhomart/sinderella)
+
+[![Gem Version](https://badge.fury.io/rb/sinderella.png)](http://badge.fury.io/rb/sinderella)
+
+[![Coverage Status](https://coveralls.io/repos/Zhomart/sinderella/badge.png)](https://coveralls.io/r/Zhomart/sinderella)
+
 TODO: Write a gem description
 
 ## Installation

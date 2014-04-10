@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: Write usage instructions here or copy/paste from somewhere
 
 ## Contributing
 
